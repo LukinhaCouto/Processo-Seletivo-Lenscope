@@ -1,0 +1,8 @@
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\bin\Debug\Processo-Seletivo-Lenscope.exe.config
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\bin\Debug\Processo-Seletivo-Lenscope.exe
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\bin\Debug\Processo-Seletivo-Lenscope.pdb
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\obj\Debug\Processo-Seletivo-Lenscope.csproj.AssemblyReference.cache
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\obj\Debug\Processo-Seletivo-Lenscope.csproj.SuggestedBindingRedirects.cache
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\obj\Debug\Processo-Seletivo-Lenscope.csproj.CoreCompileInputs.cache
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\obj\Debug\Processo-Seletivo-Lenscope.exe
+C:\Users\Licio\source\repos\Solução3\Processo-Seletivo-Lenscope\Processo-Seletivo-Lenscope\obj\Debug\Processo-Seletivo-Lenscope.pdb
